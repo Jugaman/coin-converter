@@ -1,3 +1,3 @@
 # coin-converter
 Converter
-In progress ...
+In progress .
